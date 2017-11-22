@@ -1,1 +1,3 @@
-# Banda-Bot
+{
+  "token": "MzgyNzUyNTg5MTM5NDEwOTQ2.DPaT3Q.X1TSDk4LhWKMOvLLmG7iBjADS8E"
+}
